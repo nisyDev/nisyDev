@@ -51,8 +51,8 @@ Atualmente, estou cursando **Data Science** na **UNICID**. Sou apaixonada pelo m
 
 ## 📊 Estatísticas
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nisyDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisyDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nisyDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nisyDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
 </p>
   <img 
     align="left" 
