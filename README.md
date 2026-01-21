@@ -1,6 +1,6 @@
 ## ✦ Denise Nunes Motta  
 
-**`Desenvolvedora Back-End e Analista de Dados`**
+**`Desenvolvedora Full-Stack e Analista de Dados`**
 
 Sou Denise, tenho 23 anos e sou de São Paulo, SP. Tenho formação técnica em Tecnologia da Informação pela **SPTECH** e concluí o curso de **Desenvolvimento Mobile em Kotlin** pelo **Instituto PROA**, em parceria com o **SENAC**.  
 Atualmente, estou cursando **Data Science** na **UNICID**. Sou apaixonada pelo mundo tech e utilizo este perfil para projetos pessoais e colaborativos.
